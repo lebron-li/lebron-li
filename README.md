@@ -56,6 +56,3 @@
 - 🌱 My job is **Front-End Development Engineer**
 - 📫 How to reach me: **921993423@qq.com or lzc921993423@outlook.com**
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebron-li&layout=compact&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
