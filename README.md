@@ -48,15 +48,6 @@
 
 
 
-<a href="https://github.com/lebron-li">
-  <img alt="Github-lebron-li" src="https://img.shields.io/static/v1?logo=github&logoColor=rgb(255,255,255)&label=&message=github&color=rgb(24,23,23)&style=for-the-badge" />
-</a>
-
-<br/>
-
-<a href="https://juejin.cn/user/1355016376951341">
-  <img alt="Github-lebron-li" src="https://img.shields.io/badge/Personal%20Blog-%E6%8E%98%E9%87%91-blue" />
-</a>
 
 <br/>
 
