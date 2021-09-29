@@ -2,12 +2,12 @@
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I like programming, photography and weightlifting. Do you have the same hobbies as me?</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<br>
+
 - 🏫 I'm studying in **Nanjing University of Posts and Telecommunications for a master's degree**
 - 🔭 I’m currently working on **Knowledge Graph and Natural Language Processing**
 - 🌱 My job is **Front-End Development Engineer**
 - 📫 How to reach me: **921993423@qq.com or lzc921993423@outlook.com**
-<br/>
+
 
 <p align="center">
   <a href="https://github.com/lebron-li" class="rich-diff-level-one">
