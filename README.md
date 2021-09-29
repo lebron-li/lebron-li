@@ -2,6 +2,7 @@
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em>Hey! I like programming, photography and weightlifting. </em>
 
+<br></br>
 
 - 🏫 I'm studying in **Nanjing University of Posts and Telecommunications for a master's degree**
 - 🔭 I’m currently working on **Knowledge Graph and Natural Language Processing**
