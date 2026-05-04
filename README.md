@@ -1,14 +1,17 @@
-### Hi there 👋
+### Hi , I'm zhengcai.li  👋
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em>Hey! I like programming, photography and weightlifting. </em>
+**Senior Frontend Develop | AI Agent Explorer | IoT Specialist**
 
-<br></br>
+### 🛠 技术栈与工程实践
+- **核心领域**: Agent产品前端、WebRTC。
+- **AI 技能**: 1、深度研究 **AG-UI 协议**、**MCP (Model Context Protocol)** 及 **Generative UI**。致力于将前端组件进化为“Agent 可控单元”。2、深度研究IOT设备 + WebRTC的直播系统。
 
-- 🏫 I'm studying in **Nanjing University of Posts and Telecommunications for a master's degree**
-- 🔭 I’m currently working on **Knowledge Graph and Natural Language Processing**
-- 🌱 My job is **Front-End Development Engineer**
-- 📫 How to reach me: **921993423@qq.com or lzc921993423@outlook.com**
+### 🏗 正在进行的探索
+- **AI-Native UI**: 探索 VLM 在无人机驾驶舱界面的目标识别与自动控制 API 映射。
+- **Agent Tool的设计**: 正在将深厚的 Vue3 积淀转化为 React Native 的跨端实践。
 
+### 🎵 精神补给
+- 深度渐进摇滚 (Progressive Rock) 迷，循环 Pink Floyd 与 万能青年旅店。
 
 <p align="center">
   <a href="https://github.com/lebron-li" class="rich-diff-level-one">
@@ -26,29 +29,5 @@
   </a>
   <br><br>
 </p>
-
-<h2></h2>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="show me your code"> &nbsp;&nbsp;&nbsp;&nbsp;
-
-
- 
-**Languages and Frameworks**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" title="React"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" title="Vue"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" title="CSS"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" title="HTML"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
-
-
-**Tools and Environments**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" title="Matlab"></code>
 
 
