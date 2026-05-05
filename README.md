@@ -1,6 +1,6 @@
 ### Hi , I'm zhengcai.li  👋
 
-**Senior Frontend Develop | AI Agent Explorer | IoT Specialist**
+**Frontend Developer | AI Agent Explorer | IoT SaaS**
 
 ### 🛠 技术栈与工程实践
 - **核心领域**: Agent产品前端、WebRTC。
